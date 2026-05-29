@@ -10,3 +10,5 @@ C# Windows Forms kullanılarak geliştirilmiş, bilgisayara karşı oynanan klas
 ## Kullanılan Teknolojiler
 - C#
 - Windows Forms
+### 🎥 Proje Videosu
+[Projenin arayüz ve çalışma testini izlemek için buraya tıklayın](https://youtu.be/8W96ZOEGFG0?si=z3FHSNHgwpWK-MHT)
